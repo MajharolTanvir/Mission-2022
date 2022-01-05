@@ -12,7 +12,7 @@ body {
 }
 .first-part p {
     font-size: 14px;
-    margin-right: 100px;
+    margin-right: 300px;
 
 }
 .container {
@@ -34,6 +34,61 @@ body {
     padding: 10px 30px;
 }
 .first-part-image img {
-    height: 600px;
-    width: 600px;
+    height: 550px;
+    width: 500px;
 }
+/* ---------first part end------- */
+.second-section {
+    margin-top: 40px;
+}
+.second-section h1 {
+    text-align: center;
+    font-size: 40px;
+}
+.missions {
+    display: flex;
+    justify-content: center;
+}
+.first-color {
+    background: rgba(247, 126, 206, 0.63);
+    border-radius: 15px;
+    margin-right: 30px;
+    padding: 20px;
+}
+.second-color {
+    background: rgba(207, 130, 203, 0.63);
+    border-radius: 15px;
+    margin-right: 30px;
+    padding: 20px;
+}
+.third-color {
+    background: rgba(190, 151, 135, 0.63);
+    border-radius: 15px;
+    margin-right: 30px;
+    padding: 20px;
+}
+.missions img {
+    height: 90px;
+    width: 90px;
+}
+.focus {
+    padding-top: 60px;
+}
+.text h1 {
+    text-align: left;
+}
+.text {
+    padding: 0 80px;
+}
+.img img {
+    padding-right: 30px;
+    height: 400px;
+    width: 400px;
+}
+/* ----------2nd part end -----------*/
+
+
+/* -----------3rd part end -------*/
+
+
+/* ------Footer part end------ */
