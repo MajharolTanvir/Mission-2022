@@ -89,6 +89,22 @@ body {
 
 
 /* -----------3rd part end -------*/
-
+.footer {
+    background: #000;
+    text-align: center;
+    padding: 20px 0;
+}
+.footer h1 {
+    color: #fff;
+    font-size: 30px;
+}
+.color-base {
+    color: rgb(255, 0, 0);
+    font-size: 30px;
+}
+.footer p {
+    font-size: 14px;
+    color: #fff;
+}
 
 /* ------Footer part end------ */
