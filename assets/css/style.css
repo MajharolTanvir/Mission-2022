@@ -22,7 +22,6 @@ body {
     font-size: 20px;
     border-left: 3px solid rgb(240, 20, 20);
     padding-left: 10px;
-    
 }
 .color-change {
     color: rgb(238, 69, 8);
@@ -48,6 +47,8 @@ body {
 .missions {
     display: flex;
     justify-content: center;
+    height: 100%;
+    width: 100%;
 }
 .first-color {
     background: rgba(247, 126, 206, 0.63);
@@ -106,7 +107,6 @@ body {
     font-size: 15px;
     padding: 0 100px;
 }
-
 /* -----------3rd part end -------*/
 .footer {
     background: #000;
@@ -125,5 +125,4 @@ body {
     font-size: 14px;
     color: #fff;
 }
-
 /* ------Footer part end------ */
