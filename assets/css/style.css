@@ -86,7 +86,26 @@ body {
     width: 400px;
 }
 /* ----------2nd part end -----------*/
-
+.skills {
+    margin: 60px;
+    display: flex;
+    align-items: center;
+}
+.learning-goals img {
+    height: 400px;
+    width: 550px;
+}
+.goals-info {
+    text-align: center;
+}
+.goals-info h1 {
+    font-size: 30px;
+    padding: 0 100px;
+}
+.goals-info p {
+    font-size: 15px;
+    padding: 0 100px;
+}
 
 /* -----------3rd part end -------*/
 .footer {
